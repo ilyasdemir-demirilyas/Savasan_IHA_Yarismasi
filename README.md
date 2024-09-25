@@ -3,18 +3,11 @@
 Bu yazı, savaşan İHA'lar (İnsansız Hava Araçları) kullanarak nesne tespiti ve takibi hakkında bilgi vermek için hazırlanmıştır. İHA'lar, insansız olarak uçan araçlardır ve birçok askeri ve sivil alanda kullanılır. Bu araçlar, belirli görevleri yerine getirmek için çeşitli teknolojilerle donatılmıştır.
 
 ### 1. Veri Seti Oluşturma
-![Several examples of fixed-wing and rotary-wing UAVs]([[İmages/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp)))
 
 <div align="center">
-  <p>
-  <img src="İmages/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp" width="400"/>
-  </p>
-  <br>
-  <div>
-
-
-  </div>
+  <img src="İmages/Several-examples-of-fixed-wing-and-rotary-wing-UAVs-Adapted-from-Reference-9-Creative.jpg" />
 </div>
+
 
 **Açıklama:**  
 Veri seti oluşturma, nesne tespiti ve takibi görevleri için gereken görüntü ve video verilerinin toplanmasını içerir. Doğru ve çeşitlendirilmiş veriler, modelin öğrenme sürecinde hayati bir rol oynar. 
@@ -33,6 +26,11 @@ Veri seti oluşturma, nesne tespiti ve takibi görevleri için gereken görünt�
 
 ### 2. Veri Seti Etiketleme
 
+<div align="center">
+  <img src="Images/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp" width="400" alt="Annotated image of a label with new UI" />
+</div>
+
+
 **Açıklama:**  
 Veri seti etiketleme, görüntülerdeki nesnelerin (bu durumda İHA'ların) konumlarını ve türlerini belirlemek için yapılan bir işlemdir. Bu aşama, modelin eğitim sürecinde kritik öneme sahiptir. 
 
@@ -50,6 +48,11 @@ Veri seti etiketleme, görüntülerdeki nesnelerin (bu durumda İHA'ların) konu
 ---
 
 ### 3. Nesne Tespiti
+
+<div align="center">
+  <img src="İmages/Ekran Görüntüsü (83).jpg" />
+</div>
+
 
 **Açıklama:**  
 Nesne tespiti, görüntülerdeki nesneleri tanıma ve sınıflandırma sürecidir. Bu aşamada, makine öğrenimi ve derin öğrenme algoritmaları kullanılarak İHA'ların tespiti gerçekleştirilir. Bu işlem, İHA'nın çevresindeki dünyayı anlaması için kritik öneme sahiptir.
