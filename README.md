@@ -3,11 +3,11 @@
 Bu yazı, savaşan İHA'lar (İnsansız Hava Araçları) kullanarak nesne tespiti ve takibi hakkında bilgi vermek için hazırlanmıştır. İHA'lar, insansız olarak uçan araçlardır ve birçok askeri ve sivil alanda kullanılır. Bu araçlar, belirli görevleri yerine getirmek için çeşitli teknolojilerle donatılmıştır.
 
 ### 1. Veri Seti Oluşturma
-![Several examples of fixed-wing and rotary-wing UAVs]([[https://www.researchgate.net/publication/351037538/figure/fig1/AS:1015105982574592@1619031534770/Several-examples-of-fixed-wing-and-rotary-wing-UAVs-Adapted-from-Reference-9-Creative.jpg](https://www.researchgate.net/publication/351037538/figure/fig1/AS:1015105982574592@1619031534770/Several-examples-of-fixed-wing-and-rotary-wing-UAVs-Adapted-from-Reference-9-Creative.jpg](https://raw.githubusercontent.com/ilyasdemir-demirilyas/Savasan_IHA_Yarismasi/refs/heads/main/%C4%B0mages/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp)))
+![Several examples of fixed-wing and rotary-wing UAVs]([[İmages/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp)))
 
 <div align="center">
   <p>
-  <img src="İmages/Ekran Görüntüsü (83).jpg" width="400"/>
+  <img src="[İmages/Ekran Görüntüsü (83).jpg](https://raw.githubusercontent.com/ilyasdemir-demirilyas/Savasan_IHA_Yarismasi/refs/heads/main/%C4%B0mages/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp)" width="400"/>
   </p>
   <br>
   <div>
