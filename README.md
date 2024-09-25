@@ -7,7 +7,7 @@ Bu yazı, savaşan İHA'lar (İnsansız Hava Araçları) kullanarak nesne tespit
 
 <div align="center">
   <p>
-  <img src="[İmages/Ekran Görüntüsü (83).jpg](https://raw.githubusercontent.com/ilyasdemir-demirilyas/Savasan_IHA_Yarismasi/refs/heads/main/%C4%B0mages/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp)" width="400"/>
+  <img src="İmages/63506fca7ab429da53b1bc79_rf_annotate_label_new-ui.webp" width="400"/>
   </p>
   <br>
   <div>
