@@ -4,6 +4,18 @@ Bu yazı, savaşan İHA'lar (İnsansız Hava Araçları) kullanarak nesne tespit
 
 ### 1. Veri Seti Oluşturma
 ![Several examples of fixed-wing and rotary-wing UAVs]([https://www.researchgate.net/publication/351037538/figure/fig1/AS:1015105982574592@1619031534770/Several-examples-of-fixed-wing-and-rotary-wing-UAVs-Adapted-from-Reference-9-Creative.jpg](https://www.researchgate.net/publication/351037538/figure/fig1/AS:1015105982574592@1619031534770/Several-examples-of-fixed-wing-and-rotary-wing-UAVs-Adapted-from-Reference-9-Creative.jpg))
+
+<div align="center">
+  <p>
+  <img src="[assets/images/track_all_seg_1280_025conf.gif](https://www.researchgate.net/publication/351037538/figure/fig1/AS:1015105982574592@1619031534770/Several-examples-of-fixed-wing-and-rotary-wing-UAVs-Adapted-from-Reference-9-Creative.jpg](https://www.researchgate.net/publication/351037538/figure/fig1/AS:1015105982574592@1619031534770/Several-examples-of-fixed-wing-and-rotary-wing-UAVs-Adapted-from-Reference-9-Creative.jpg)" width="400"/>
+  </p>
+  <br>
+  <div>
+
+
+  </div>
+</div>
+
 **Açıklama:**  
 Veri seti oluşturma, nesne tespiti ve takibi görevleri için gereken görüntü ve video verilerinin toplanmasını içerir. Doğru ve çeşitlendirilmiş veriler, modelin öğrenme sürecinde hayati bir rol oynar. 
 
