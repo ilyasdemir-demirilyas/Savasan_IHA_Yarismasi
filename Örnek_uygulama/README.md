@@ -57,6 +57,9 @@ python deneme.py --yolo-model yolov8_sabitkanat.pt --conf 0.5 --reid-model osnet
 
 Bu sayede, istediğiniz parametrelerle takip işlemini terminalden başlatabilir ve kendi uygulamanızı test edebilirsiniz.
 
+## Test Sonuçları
+Test videosuna ve çıktısına ulaşmak için [buraya](https://drive.google.com/drive/folders/1mk_50YZatQ5iv6brb6v8kLhWMzYSrwm6?usp=sharing) tıklayarak drive linkine gidebilirsiniz.
+
 ## Sonuç
 BoxMOT, savaşan İHA'lar ve benzeri gerçek zamanlı nesne tespiti ve takibi gereken uygulamalar için güçlü, esnek ve yüksek performanslı bir çerçeve sunar. Kendi veri setlerinizi kullanarak yeni modelleri test etmek ve performansınızı artırmak için bu kütüphaneyi mutlaka incelemenizi öneririm.
 
