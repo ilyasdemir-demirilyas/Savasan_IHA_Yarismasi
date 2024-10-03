@@ -37,13 +37,16 @@ BoxMOT, bu ReID modellerini nesne takibiyle entegre ederek, hedeflerin tespit ed
 - **Yüksek Performans:** YOLO modelleri ile entegre çalışarak yüksek hızlı nesne tespiti ve takibi sunar. Bu, özellikle gerçek zamanlı operasyonlar için optimize edilmiştir.
 - **Hızlı Deneyler:** Tespitleri ve gömmeleri saklayarak herhangi bir takip algoritmasıyla tekrar kullanılmasını sağlar, bu da deney sürecini hızlandırır.
 
-## Örnek Uygulama
-Kodu manuel olarak çalıştırmak için [deneme.py](https://github.com/ilyasdemir-demirilyas/Savasan_IHA_Yarismasi/blob/main/%C3%96rnek_uygulama/deneme.py) dosyasına girip çalıştırabilirsiniz.
+
+### Örnek Uygulama
+[BoxMOT](https://github.com/mikel-brostrom/boxmot.git) reposunu ziyaret ederek gerekli kurulumları yapabilir ve bu kütüphane ile çalışmalarınızı test edebilirsiniz.
+
+Bu çalışmaları desteklemek amacıyla, nesne tespiti için oluşturduğum örnek YOLOv8 modelini de ekliyorum. Bu model, en uygun takip ve ReID algoritmaları hakkında bilgi edinmenizi sağlayacaktır. YOLOv8 modeli, en son çalışmalarda en performanslı model olarak ölçüldüğü için tercih edilmiştir. Kendi veri setlerinizle yeni modelleri test ederek daha hızlı ve yüksek skor elde etmek için tüm modeller üzerinde denemeler yapmanızı öneririm.
 
 ### Kodu Çalıştırma
 Aşağıda, BoxMOT ile nesne takibi için örnek bir uygulama kodu ve komut satırı ile çalıştırma adımları verilmiştir:
 ### Manuel içinde çalıştırma 
-Kodu manuel olarak çalıştırmak için [deneme.py].(https://github.com/ilyasdemir-demirilyas/Savasan_IHA_Yarismasi/blob/main/%C3%96rnek_uygulama/deneme.py) dosyasına girip çalıştırabilirsiniz .
+Kodu manuel olarak çalıştırmak için [deneme.py](https://github.com/ilyasdemir-demirilyas/Savasan_IHA_Yarismasi/blob/main/%C3%96rnek_uygulama/deneme.py) dosyasına girip çalıştırabilirsiniz.
 
 ### Komut Satırından Çalıştırma
 Kodu komut satırından çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
