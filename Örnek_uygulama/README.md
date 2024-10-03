@@ -38,7 +38,7 @@ BoxMOT, bu ReID modellerini nesne takibiyle entegre ederek, hedeflerin tespit ed
 - **Hızlı Deneyler:** Tespitleri ve gömmeleri saklayarak herhangi bir takip algoritmasıyla tekrar kullanılmasını sağlar, bu da deney sürecini hızlandırır.
 
 ## Örnek Uygulama
-[BoxMOT](https://github.com/mikel-brostrom/boxmot.git) reposunu ziyaret ederek gerekli kurulumları yapabilir ve bu kütüphane ile kendi çalışmalarınızı test edebilirsiniz.
+Kodu manuel olarak çalıştırmak için [deneme.py](https://github.com/ilyasdemir-demirilyas/Savasan_IHA_Yarismasi/blob/main/%C3%96rnek_uygulama/deneme.py) dosyasına girip çalıştırabilirsiniz.
 
 ### Kodu Çalıştırma
 Aşağıda, BoxMOT ile nesne takibi için örnek bir uygulama kodu ve komut satırı ile çalıştırma adımları verilmiştir:
