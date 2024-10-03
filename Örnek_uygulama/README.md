@@ -1,7 +1,3 @@
-Elbette, aşağıdaki içerik, GitHub'daki `README.md` dosyanızda kullanmak üzere profesyonelce düzenlenmiştir. Kodların yer aldığı bölümler de uygun şekilde entegre edilmiştir.
-
----
-
 # BoxMOT: Nesne Tespiti ve Takibi İçin Gelişmiş Bir Kütüphane
 
 ## Genel Bakış
