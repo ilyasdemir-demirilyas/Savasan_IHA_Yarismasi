@@ -43,7 +43,7 @@ BoxMOT, bu ReID modellerini nesne takibiyle entegre ederek, hedeflerin tespit ed
 ### Kodu Çalıştırma
 Aşağıda, BoxMOT ile nesne takibi için örnek bir uygulama kodu ve komut satırı ile çalıştırma adımları verilmiştir:
 ### Manuel içinde çalıştırma 
-Kodu manuel olarak çalıştırmak için deneme.py dosyasına girip çalıştırabilirsiniz .
+Kodu manuel olarak çalıştırmak için [deneme.py].(Örnek_uygulama/deneme.py) dosyasına girip çalıştırabilirsiniz .
 
 ### Komut Satırından Çalıştırma
 Kodu komut satırından çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
